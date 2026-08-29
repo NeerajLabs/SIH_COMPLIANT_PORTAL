@@ -35,7 +35,7 @@ const ticketSchema = new mongoose.Schema(
   },
   {
     timestamps: true,
-    collection: "tickets"
+    collection: "complaints"
   }
 );
 
